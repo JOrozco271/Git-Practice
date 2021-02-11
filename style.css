@@ -1,0 +1,21 @@
+table, td, button{
+    width: 25%;
+    border-collapse: collapse;
+    background-color: darkgreen;
+    text-align: center;
+    height: 100px;
+}
+
+table{
+    margin: 0 auto;
+}
+
+button{
+    color: gold;
+}
+
+div{
+    text-align: right;
+    font-size: 30px;
+    color: honeydew;
+}
