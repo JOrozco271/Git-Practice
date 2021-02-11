@@ -1,21 +1,34 @@
-table, td, button{
-    width: 25%;
+table, td{
+    width: 24%;
+    height: 89px;
     border-collapse: collapse;
     background-color: darkgreen;
     text-align: center;
-    height: 100px;
-}
-
-table{
-    margin: 0 auto;
+    margin: auto;
+    border-radius: 70%;
+    background-image: url("darkgreenmetal.jpg");
 }
 
 button{
+    width: 24%;
+    height: 74px;
+    background-color: darkgreen;
     color: gold;
+    border-collapse: collapse;
+    border: 5px inset gold;
+    border-style: dashed inset none;
+    border-radius: 50% 70%;
+    background-image: url("darkgreenmetal2.jpg");
 }
 
 div{
-    text-align: right;
+    border-collapse: collapse;
+    text-align: center;
+    background-color: indigo;
     font-size: 30px;
     color: honeydew;
+    border: 1px solid black;
+    border-style: solid none;
+    border-radius: 30% 70%;
+    background-image: url("darkpurple.jpg");
 }
