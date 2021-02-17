@@ -1,26 +1,40 @@
 table, td{
     width: 24%;
     height: 89px;
-    border-collapse: collapse;
+    border-collapse: separate;
     background-color: darkgreen;
     text-align: center;
-    margin: auto;
+    margin: 35px 605px;
     border-radius: 70%;
     background-image: url("darkgreenmetal.jpg");
 }
-
+a{
+    font-size: 29px;
+    text-align: left;
+    border-collapse: collapse;
+    text-decoration: underline;
+    text-shadow: 1px 1px 2px green;
+    display: inline;
+    top: 440px;
+    position: relative;
+    left: 240px;
+}
 button{
     width: 24%;
-    height: 74px;
+    height: 69px;
     background-color: darkgreen;
     color: gold;
     border-collapse: collapse;
-    border: 5px inset gold;
+    border: 3px inset gold;
     border-style: dashed inset none;
-    border-radius: 50% 70%;
+    border-radius: 60% 60% 40%;
     background-image: url("darkgreenmetal2.jpg");
+    cursor: wait;
+    transition: .5s all;
 }
-
+button:hover{
+    border-color: limegreen;
+}
 div{
     border-collapse: collapse;
     text-align: center;
@@ -31,4 +45,12 @@ div{
     border-style: solid none;
     border-radius: 30% 70%;
     background-image: url("darkpurple.jpg");
+}
+#display{
+    color: lime;
+}
+body{
+    background-image: url("thinking.jpg");
+    background-repeat: no-repeat;
+    background-size: 1520px 740px;
 }

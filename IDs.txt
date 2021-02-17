@@ -15,3 +15,6 @@ class of x
 class of y
 class operator
 class of answer
+git add -A
+git commit -m "message"
+git push
