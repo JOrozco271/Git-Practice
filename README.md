@@ -1,1 +1,2 @@
-# Git-Practice
+deep url is a url that includes a path that penetrates the folder structure of a web site
+relative url is a url that gives an abbreviated path to a resource using the current page as a starting postion.

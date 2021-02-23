@@ -29,7 +29,7 @@ button{
     border-style: dashed inset none;
     border-radius: 60% 60% 40%;
     background-image: url("darkgreenmetal2.jpg");
-    cursor: wait;
+    cursor: pointer;
     transition: .5s all;
 }
 button:hover{

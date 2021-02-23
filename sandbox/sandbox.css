@@ -1,0 +1,21 @@
+a{
+    margin: 700px;
+    color: black;
+    text-align: center;
+    margin-bottom: 700px;
+    border-collapse: collapse;
+    text-decoration-color: red;
+}
+h1{
+    margin: 200px;
+    color: cornflowerblue;
+    background-color: black;
+    text-align: center;
+    margin-bottom: auto;
+    border-collapse: collapse;
+}
+body{
+    background-image: url('https://miro.medium.com/max/1000/1*iOeWa7JkiFYytE7Eegx9Jg.jpeg');
+    background-repeat: no-repeat;
+    background-size: 1540px 755px;
+}
